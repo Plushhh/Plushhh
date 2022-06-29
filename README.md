@@ -21,10 +21,7 @@
    seconds</p>
 </p>
 
-##
-<h3 align="left">
-  plushhh-identity.js
-</h3>
+## plushhh-identity.js
 
 
 ```javascript
@@ -42,10 +39,8 @@ class Plushhh {
 }
 
 ```
-## 
-<h2 alighn="left">
-Other Stuff
-</h2>
+## Other Stuff
+
 <p align="center">
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=5ozbts1j3eei3oboisy3vh2ij&redirect=true"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=5ozbts1j3eei3oboisy3vh2ij&cover_image=true&theme=default&bar_color=c9c9c9&bar_color_cover=true" /></a>
 </p>
