@@ -8,7 +8,9 @@
 </h4>
 
 ##
-<p align="center"><b>Some real-time information about me!</b></p>
+<h3 align="center">
+  Some real-time info about me!
+  </h3>
 <br/>
 <p align="center">When you clicked my profile, I was
 <img title="My age in exact years" alt="Loading... (or it broke, refresh your page)" src="https://inimicalpart.com/img/years.png?imsobadatthis"></img>
