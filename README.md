@@ -42,7 +42,9 @@ class Plushhh {
 ```
 ## Other Stuff
 
-<p align="center"><img src="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5ozbts1j3eei3oboisy3vh2ij&cover_image=true&theme=default&bar_color=c9c9c9&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=5ozbts1j3eei3oboisy3vh2ij&redirect=true)" /></p>
+<p align="center">
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=5ozbts1j3eei3oboisy3vh2ij&redirect=true"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=5ozbts1j3eei3oboisy3vh2ij&cover_image=true&theme=default&bar_color=c9c9c9&bar_color_cover=true" /></a>
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5ozbts1j3eei3oboisy3vh2ij&cover_image=true&theme=default&bar_color=c9c9c9&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=5ozbts1j3eei3oboisy3vh2ij&redirect=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
