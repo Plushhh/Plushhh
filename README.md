@@ -42,7 +42,7 @@ class Plushhh {
 ```
 ## Other Stuff
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5ozbts1j3eei3oboisy3vh2ij&cover_image=true&theme=default&bar_color=c9c9c9&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=5ozbts1j3eei3oboisy3vh2ij&redirect=true) 
+<p align="center">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5ozbts1j3eei3oboisy3vh2ij&cover_image=true&theme=default&bar_color=c9c9c9&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=5ozbts1j3eei3oboisy3vh2ij&redirect=true) /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
