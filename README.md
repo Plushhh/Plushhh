@@ -42,8 +42,7 @@ class Plushhh {
 }
 
 ```
-## 
-<h2 alighn="left">
+## <h2 alighn="left">
   Other Stuff
 </h2>
 <p align="center">
