@@ -24,7 +24,6 @@
   plushhh-identity.js
 </h3>
 
-##
 
 ```javascript
 const me = new Plushhh();
