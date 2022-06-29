@@ -39,8 +39,7 @@ class Plushhh {
 }
 
 ```
-## 
-Other Stuff
+## Other Stuff
 ##
 
 <p align="center">
