@@ -52,5 +52,6 @@ class Plushhh {
 
 ![](https://hit.yhype.me/github/profile?user_id=97463415)
 
-<p align="right"><img src="https://komarev.com/ghpvc/?username=Plushhhy&label=Profile%20views&color=blueviolet&style=flat" alt="plushhh" /></p>
+<p align="right">
+<a href="https://bit.ly/3bH4fz1"><img src="https://komarev.com/ghpvc/?username=Plushhhy&label=Profile%20views&color=blueviolet&style=flat" alt="plushhh" /></p>
 <br>
