@@ -4,7 +4,7 @@
        </p>
  
 <h4 align="center">
-  Hello! My name is Plushhh (I usually go by Plush) and I work on front-end and back-end development. I have created some projects, for example a <a href="https://bit.ly/3P2JNHa/">Minecraft Server</a> for SAES, <a href="https://bit.ly/3I9m1qV">my personal website</a>, and some others like <a href="https://bit.ly/3bH4fz1">this page!</a> If you have a question to ask me or just want to talk then don't hesitate to contact me on my email (<a href="mailto:inbox.plush@gmail.com?subject=Hello good friend c;">inbox.plush@gmail.com</a>).
+  Hello! My name is Plushhh (I usually go by Plush) and I work on front-end and back-end development. I have created some projects, for example a <a href="https://bit.ly/3P2JNHa">Minecraft Server</a> for SAES, <a href="https://bit.ly/3I9m1qV">my personal website</a>, and some others like <a href="https://bit.ly/3bH4fz1">this page!</a> If you have a question to ask me or just want to talk then don't hesitate to contact me on my email (<a href="mailto:inbox.plush@gmail.com?subject=Hello good friend c;">inbox.plush@gmail.com</a>).
 </h4>
 
 ##
