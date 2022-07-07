@@ -32,7 +32,7 @@ class Plushhh {
     this.username = "Plush" || "Plushhh";
     this.pronouns = ["he", "him"];
     this.age = 13 (15-2);
-    this.discord = "https://pastebin.com/qq0DdALH" || "Scorpian#8645";
+    this.discord = "https://pastebin.com/aTTMNbjg" || "Scorpian#8645";
     this.email = "inbox.plush@gmail.com";
     this.worksOn = ["front-end", "back-end"];
   }
