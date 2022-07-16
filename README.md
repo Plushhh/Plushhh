@@ -13,11 +13,11 @@
   </h3>
 <br/>
 <p align="center">When you clicked my profile, I was
-<img title="My age in exact years" alt="Loading... (or it broke, refresh your page)" src="https://inimicalpart.com/img/years.png?imsobadatthis"></img>
+<img title="My age in exact years" alt="Loading... (or it broke, refresh your page/turn off adblock)" src="https://inimicalpart.com/img/years.png?imsobadatthis"></img>
    years old minus two</p>
 </p>
   <p align="center">My next birthday is in
-<img title="My next birthday in seconds" alt="Loading... (or it broke, refresh your page)" src="https://inimicalpart.com/img/seconds.png?imsobadatthis"></img>
+<img title="My next birthday in seconds" alt="Loading... (or it broke, refresh your page/turn off adblock)" src="https://inimicalpart.com/img/seconds.png?imsobadatthis"></img>
    seconds</p>
 </p>
 
