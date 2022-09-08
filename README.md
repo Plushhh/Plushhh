@@ -14,7 +14,7 @@
 <a href="https://github.com/Plushhh><img title="My age in exact years" alt="It broke. Refresh your page." src="https://api.inimicalpart.com/v1/img.png?years"></img>
 </p></p>
 
-<p align="center"></p>My next birthday is in</p> 
+<p align="center">My next birthday is in
 <a href="https://bit.ly/3AsIOvV"><img title="My next birthday" alt="It broke. Refresh your page." src="https://api.inimicalpart.com/v1/img.png?prettyLeft"></img></p>
 </p>
 
