@@ -13,10 +13,10 @@
   </h3>
 <br/>
 <p align="center">When you clicked my profile, I was
-<a href="https://github.com/plushhh"><img title="My age in exact years" alt="Loading... (or it broke, refresh your page/turn off adblock)" <a href="https://github.com/plushhh"> src="https://api.inimicalpart.com/v1/img.png?yearst</p>
+<img title="My age in exact years" alt="Loading... (or it broke, refresh your page/turn off adblock)" src="https://api.inimicalpart.com/v1/img.png?yearst</p>
 </p>
   <p align="center">My next birthday is in
-<img title="My next birthday in seconds" alt="Loading... (or it broke, refresh your page/turn off adblock)" <a href="https://github.com/plushhh"> src="hhttps://api.inimicalpart.com/v1/img.png?prettyLeft"></img>
+<img title="My next birthday in seconds" alt="Loading... (or it broke, refresh your page/turn off adblock)" src="hhttps://api.inimicalpart.com/v1/img.png?prettyLeft"></img>
    seconds</p>
 </p>
 
