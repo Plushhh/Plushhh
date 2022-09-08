@@ -11,11 +11,14 @@
 <p align="center"><b>Some real-time information about me!</b></p>
 <br/>
 <p align="center">When you clicked my profile, I was
-<a href="https://github.com/Plushhh><img title="My age in exact years" alt="It broke. Refresh your page." src="https://api.inimicalpart.com/v1/img.png?years"></img>
-</p></p>
-
-<p align="center">My next birthday is in
-<a href="https://bit.ly/3AsIOvV"><img title="My next birthday" alt="It broke. Refresh your page." src="https://api.inimicalpart.com/v1/img.png?prettyLeft"></img></p>
+<img title="My age in exact years" alt="It broke. Refresh your page." src="https://api.inimicalpart.com/v1/img.png?years"></img>
+   years old</p>
+</p>
+  <!--<p align="center">My next birthday is in
+<img title="My next birthday in seconds" alt="It broke. Refresh your page." src="https://api.inimicalpart.com/v1/img.png?secondsLeft"></img>
+   seconds</p>-->
+  <p align="center">My next birthday is in 
+<img title="My next birthday" alt="It broke. Refresh your page." src="https://api.inimicalpart.com/v1/img.png?prettyLeft"></img></p>
 </p>
 
 ## plushhh-identity.js
