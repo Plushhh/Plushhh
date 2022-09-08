@@ -12,7 +12,7 @@
 <br/>
 <p align="center">When you clicked my profile, I was
 <a href="https://bit.ly/3AsIOvV"><img title="My age in exact years" alt="It broke. Refresh your page." src="https://api.inimicalpart.com/v1/img.png?years"></img>
-</p>
+</p></p>
   <!--<p align="center">My next birthday is in
 <img title="My next birthday in seconds" alt="It broke. Refresh your page." src="https://api.inimicalpart.com/v1/img.png?secondsLeft"></img>
    seconds</p>-->
