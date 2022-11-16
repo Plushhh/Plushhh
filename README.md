@@ -7,20 +7,6 @@
   Hello! My name is Plushhh (I usually go by Plush) and I work on front-end and back-end development. I have created some projects, for example a <a href="https://bit.ly/PlushBSMPsite">Minecraft Server</a> for my school, <a href="https://e-z.bio/plush">my personal website</a>, and some others like <a href="https://bit.ly/PlushGithub">this page!</a> If you have a question to ask me or just want to talk then don't hesitate to contact me on my email (<a href="mailto:inbox.plush@gmail.com?subject=Hello good friend c;">inbox.plush@gmail.com</a>).
 </h4>
 
-##
-<p align="center"><b>Some real-time information about me!</b></p>
-<br/>
-<p align="center">When you clicked my profile, I was
-<img title="My age in exact years" alt="It broke. Refresh your page." src="https://api.inimicalpart.com/v1/img.png?years"></img>
-   years old</p>
-</p>
-  <!--<p align="center">My next birthday is in
-<img title="My next birthday in seconds" alt="It broke. Refresh your page." src="https://api.inimicalpart.com/v1/img.png?secondsLeft"></img>
-   seconds</p>-->
-  <p align="center">My next birthday is in 
-<img title="My next birthday" alt="It broke. Refresh your page." src="https://api.inimicalpart.com/v1/img.png?prettyLeft"></img></p>
-</p>
-
 ## plushhh-identity.js
 
 
