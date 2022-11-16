@@ -6,7 +6,6 @@
 <h4 align="center">
   Hello! My name is Plushhh (I usually go by Plush) and I work on front-end and back-end development. I have created some projects, for example a <a href="https://bit.ly/PlushBSMPsite">Minecraft Server</a> for my school, <a href="https://e-z.bio/plush">my personal website</a>, and some others like <a href="https://bit.ly/PlushGithub">this page!</a> If you have a question to ask me or just want to talk then don't hesitate to contact me on my email (<a href="mailto:inbox.plush@gmail.com?subject=Hello good friend c;">inbox.plush@gmail.com</a>).
 </h4>
-
 ## plushhh-identity.js
 
 
@@ -33,7 +32,7 @@ class Plushhh {
 </p>
 
 <p align="center">
-<a href="https://bit.ly/3bH4fz1"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" /></a>
+<a href="https://github.com/Plushhh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" /></a>
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=97463415)
