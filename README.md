@@ -33,7 +33,7 @@ class Plushhh {
 </p>
 
 <p align="center">
-<a href="https://github.com/Plushhh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" /></a>
+<a href="https://github.com/Plushhh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plushhh&layout=compact&theme=tokyonight" /></a>
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=97463415)
