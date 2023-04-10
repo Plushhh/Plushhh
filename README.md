@@ -17,7 +17,7 @@ class Plushhh {
   constructor() {
     this.username = "Plush" || "Plushhh";
     this.pronouns = ["he", "him"];
-    this.age = 15;
+    this.age = ~2 days;
     this.discord = "https://pastebin.com/aTTMNbjg";
     this.email = "inbox.plush@gmail.com";
     this.worksOn = ["front-end", "back-end"];
